@@ -383,8 +383,13 @@ color: #365899;
     text-decoration: none;
     line-height: 1.5;
 } 
+#footer .wrapper .label5 {
+    position: relative;
+    top:4px;
+}
  #footer .wrapper .copyright{
+    position: relative;
     font-size: 11px;
     color: #737373;
-    padding-top: 41px;
+    top: 41px;
 } 
