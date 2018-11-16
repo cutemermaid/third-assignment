@@ -1,9 +1,10 @@
-# Second Assignment
-I have refactored the homepage of [facebook.com](https://www.facebook.com) to learn basic HTML and CSS.
+# Third Assignment
+I have improved the homepage of [facebook.com](https://www.facebook.com) by using pseudo selectors and min-width on wrappers.
 
 ## Things: I learned
- * To align element  using relative/absolute position
+ * Pseudo selectors such as :first-of-type, :last-of-type, and :nth-of-type()
+ * min-width: max-content
 
 ## Demo
 
-![Second Assignment](./Images/demo.png)
+![Third Assignment](./Images/demo.png)
